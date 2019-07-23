@@ -1,0 +1,31 @@
+May 27, 2019 11:10:52 AM hudson.remoting.jnlp.Main createEngine
+INFO: Setting up agent: Testcentos
+May 27, 2019 11:10:52 AM hudson.remoting.jnlp.Main$CuiListener <init>
+INFO: Jenkins agent is running in headless mode.
+May 27, 2019 11:10:52 AM hudson.remoting.Engine startEngine
+INFO: Using Remoting version: 3.29
+May 27, 2019 11:10:52 AM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
+INFO: Using C:\Jenkins\remoting as a remoting work directory
+May 27, 2019 11:10:53 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+May 27, 2019 11:10:53 AM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver resolve
+INFO: Remoting server accepts the following protocols: [JNLP4-connect, Ping]
+May 27, 2019 11:10:53 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Agent discovery successful
+  Agent address: localhost
+  Agent port:    50732
+  Identity:      2f:44:78:d5:4a:4b:1c:22:12:2f:ff:f3:9e:40:f3:4f
+May 27, 2019 11:10:53 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Handshaking
+May 27, 2019 11:10:53 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Connecting to localhost:50732
+May 27, 2019 11:10:53 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Trying protocol: JNLP4-connect
+May 27, 2019 11:10:54 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Remote identity confirmed: 2f:44:78:d5:4a:4b:1c:22:12:2f:ff:f3:9e:40:f3:4f
+May 27, 2019 11:10:56 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Connected
+May 27, 2019 12:29:52 PM org.jenkinsci.remoting.util.AnonymousClassWarnings warn
+WARNING: Attempt to (de-)serialize anonymous class org.jenkinsci.plugins.gitclient.Git$1; see: https://jenkins.io/redirect/serialization-of-anonymous-classes/
+May 27, 2019 12:29:54 PM org.jenkinsci.remoting.util.AnonymousClassWarnings warn
+WARNING: Attempt to (de-)serialize anonymous class org.jenkinsci.plugins.gitclient.RemoteGitImpl$CommandInvocationHandler$1; see: https://jenkins.io/redirect/serialization-of-anonymous-classes/
